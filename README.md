@@ -1,5 +1,5 @@
 - 👋 Hi, I’m swikrit(sulabh) adhikari
-- 👀 I’m interested in coding, riding and workout.
+- 👀 I’m interested in coding, bike riding and workout.
 - 🌱 I’m currently learning new tech
 
 <!---
